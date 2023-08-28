@@ -1,6 +1,3 @@
-# ATOM-Toolhead
-A lightweight and minimal toolhead
-
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./IMAGES/ATOM-Square.png" | width=300>
@@ -8,6 +5,8 @@ A lightweight and minimal toolhead
         <img alt="ATOM-Logo" src="./IMAGES/ATOM-Square.png">
     </picture>
 </p>
+
+## ATOM-Toolhead
 
 ATOM is a part of a the ICS printer design. Although it can be used on most printers with front mounted gantry rail.
 
