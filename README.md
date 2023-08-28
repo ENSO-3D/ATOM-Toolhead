@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./IMAGES/ATOM-logo-banner-light.png" | width=600>
-        <source media="(prefers-color-scheme: light)" srcset="./IMAGES/ATOM-logo-banner-dark.png" | width=600>
+        <source media="(prefers-color-scheme: dark)" srcset="./IMAGES/ATOM-logo-banner-light.png" | width=1000>
+        <source media="(prefers-color-scheme: light)" srcset="./IMAGES/ATOM-logo-banner-dark.png" | width=1000>
         <img alt="ATOM-Logo" src="./IMAGES/ATOM-logo-banner-dark.png">
     </picture>
 </p>
