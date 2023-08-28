@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./IMAGES/ATOM-Square.png" | width=300>
-        <source media="(prefers-color-scheme: light)" srcset="./IMAGES/ATOM-Square.png" | width=300>
+        <source media="(prefers-color-scheme: dark)" srcset="./IMAGES/ATOM-Square.png" | width=600>
+        <source media="(prefers-color-scheme: light)" srcset="./IMAGES/ATOM-Square.png" | width=600>
         <img alt="ATOM-Logo" src="./IMAGES/ATOM-Square.png">
     </picture>
 </p>
