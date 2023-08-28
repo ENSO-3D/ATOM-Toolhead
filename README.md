@@ -22,7 +22,6 @@ The weight for the all metal version without linear block, hotend and CAN toolbo
 
 Renders and more pictures are coming SOON™ 🙂
 
-<img src="https://github.com/ENSO-3D/ATOM-Toolhead/blob/main/IMAGES/ATOM-Front.png" height="800">
-<img src="https://github.com/ENSO-3D/ATOM-Toolhead/blob/main/IMAGES/ATOM-Side.png" height="800">
+<img src="https://github.com/ENSO-3D/ATOM-Toolhead/blob/main/IMAGES/ATOM-Front.png" height="800"> <img src="https://github.com/ENSO-3D/ATOM-Toolhead/blob/main/IMAGES/ATOM-Side.png" height="800">
 
 *This is still a WIP, so any feedback is highly welcome!*
