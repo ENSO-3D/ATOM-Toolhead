@@ -26,3 +26,5 @@ Renders and more pictures are coming SOON™ 🙂
 ![ATOM-Side](https://github.com/ENSO-3D/ATOM-Toolhead/blob/main/IMAGES/ATOM-Side.png)
 
 *This is still a WIP, so any feedback is highly welcome!*
+
+<img src="https://github.com/ENSO-3D/ATOM-Toolhead/blob/main/IMAGES/ATOM-Front.png" width="300">
